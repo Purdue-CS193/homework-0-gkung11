@@ -2,6 +2,7 @@
 
 - Teaches important and useful information that will be needed in CS
 - Interesting content
+- this bulleted list thing looks cool
 
 ## Welcome to GitHub Pages
 
